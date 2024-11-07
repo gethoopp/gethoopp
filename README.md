@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **halimpamungkas9@gmail.com**
 
-- ⚡ Fun fact **I will cathc you with try and catch**
+- ⚡ Fun fact **I will catch you with try and catch**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
