@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Haliim Pamungkas Harjo Suyono</h1>
 <h3 align="center">A passionate flutter developer from Nganjuk,east java</h3>
 
+<figure><embed src="https://wakatime.com/share/@1686880a-70a9-4086-8524-e130c7ec1743/54ce97ac-0906-40e1-a86d-963fea22653b.svg"></embed></figure>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gethoopp&label=Profile%20views&color=0e75b6&style=flat" alt="gethoopp" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gethoopp" alt="gethoopp" /></a> </p>
