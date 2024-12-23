@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Zona Media Group](https://g.co/kgs/EAQRY1Q)
 
-- 🌱 I’m currently learning **Golang, Flutter, also arduino esp32**
+- 🌱 I’m currently learning **Golang, Flutter, also Rust**
 
 - 👨‍💻 All of my projects are available at [https://gethoopp.github.io/](https://gethoopp.github.io/)
 
