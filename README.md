@@ -28,6 +28,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gethoopp&show_icons=true&locale=en&layout=compact" alt="gethoopp" /></p>
 
+<a href="https://www.quickiqtest.net" title="IQ Test"><img src="https://www.quickiqtest.net/graphic/badges/sf104.gif" width="150" height="75" alt="IQ Test" border="0"></a><br><a title="IQ Test" href="https://www.quickiqtest.net">IQ Test</a
+
+
 
 
 <figure><embed src="https://wakatime.com/share/@1686880a-70a9-4086-8524-e130c7ec1743/54ce97ac-0906-40e1-a86d-963fea22653b.svg"></embed></figure>
