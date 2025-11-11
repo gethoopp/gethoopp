@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://gethoopp.github.io/](https://gethoopp.github.io/)
 
-- 💬 Ask me about **Flutter,GO**
+- 💬 Ask me about **Flutter,go,rust**
 
 - 📫 How to reach me **halimpamungkas9@gmail.com**
 
