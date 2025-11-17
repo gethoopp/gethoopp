@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gethoopp" alt="gethoopp" /></a> </p>
 
-- 🔭 I’m currently working on [Zona Media Group](https://g.co/kgs/EAQRY1Q)
+- 🔭 Open for roles related to Flutter, Go, or Rust development
 
 - 🌱 I’m currently learning Golang, Flutter, also Rust
 
