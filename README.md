@@ -33,7 +33,7 @@
 
 - 📫 How to reach me **halimpamungkas9@gmail.com**
 
-- ⚡ Fun fact **I will catch you with try and catch**
+
 
 
 
