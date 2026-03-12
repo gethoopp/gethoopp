@@ -7,7 +7,7 @@
 
 <!-- QUOTE BANNER -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=99999&pause=99999&color=7AA2F7&background=1A1B27&center=true&vCenter=true&width=860&height=70&lines=%E2%80%9C+Tholabul+%27ilmi+minal+mahdi+ilal+lahdi+%E2%80%9D" alt="Quote Banner"/>
 </div>
 
 <br/>
@@ -39,7 +39,7 @@
 ---
 
 <!-- ABOUT ME TERMINAL -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Technology/Laptop.png" width="30"/> &nbsp;`whoami`
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Technology/Laptop.png" width="30"/> &nbsp;`whoami`
 
 ```bash
 ╔══════════════════════════════════════════════════════════════════╗
@@ -95,6 +95,10 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🤖 AI-Powered Dev Tools
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-7aa2f7?style=for-the-badge&logo=terminal&logoColor=white)
 
 </div>
 
