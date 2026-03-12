@@ -39,7 +39,7 @@
 ---
 
 <!-- ABOUT ME TERMINAL -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Technology/Laptop.png" width="30"/> &nbsp;`whoami`
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Technology/Laptop.png" width="30"/> &nbsp;`whoami`
 
 ```bash
 ╔══════════════════════════════════════════════════════════════════╗
