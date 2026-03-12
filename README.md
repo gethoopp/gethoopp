@@ -40,9 +40,6 @@
 
 ---
 
-<!-- ABOUT ME TERMINAL -->
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Technology/Laptop.png" width="30"/> &nbsp;`whoami`
-
 ```bash
 ╔══════════════════════════════════════════════════════════════════╗
 ║  $ cat developer.json                                            ║
@@ -180,24 +177,6 @@
 
 </div>
 
-<br/>
-
----
-
-<!-- CONTRIBUTION SNAKE -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30"/> &nbsp;Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gethoopp/gethoopp/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gethoopp/gethoopp/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gethoopp/gethoopp/output/github-contribution-grid-snake.svg"/>
-  </picture>
-</div>
-
-> ⚡ *To enable the snake animation, add a [GitHub Actions workflow](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid) to your profile repo.*
-
-<br/>
 
 ---
 
