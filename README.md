@@ -1,13 +1,15 @@
-<!-- ██████╗ ███████╗████████╗██╗  ██╗ ██████╗  ██████╗ ██████╗ ██████╗ 
+ ██████╗ ███████╗████████╗██╗  ██╗ ██████╗  ██████╗ ██████╗ ██████╗ 
 ██╔════╝ ██╔════╝╚══██╔══╝██║  ██║██╔═══██╗██╔═══██╗██╔══██╗██╔══██╗
 ██║  ███╗█████╗     ██║   ███████║██║   ██║██║   ██║██████╔╝██████╔╝
 ██║   ██║██╔══╝     ██║   ██╔══██║██║   ██║██║   ██║██╔═══╝ ██╔═══╝ 
 ╚██████╔╝███████╗   ██║   ██║  ██║╚██████╔╝╚██████╔╝██║     ██║     
- ╚═════╝ ╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝     ╚═╝     -->
+ ╚═════╝ ╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝     ╚═╝    
 
 <!-- QUOTE BANNER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=99999&pause=99999&color=7AA2F7&background=1A1B27&center=true&vCenter=true&width=860&height=70&lines=%E2%80%9C+Tholabul+%27ilmi+minal+mahdi+ilal+lahdi+%E2%80%9D" alt="Quote Banner"/>
+
+  ![Quote](https://capsule-render.vercel.app/api?type=rect&color=1a1b27&height=60&text=%22%20Tholabul%20'ilmi%20minal%20mahdi%20ilal%20lahdi%20%22&fontSize=20&fontColor=7aa2f7&fontAlign=50&fontAlignY=55&animation=fadeIn)
+
 </div>
 
 <br/>
@@ -39,7 +41,7 @@
 ---
 
 <!-- ABOUT ME TERMINAL -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Technology/Laptop.png" width="30"/> &nbsp;`whoami`
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Technology/Laptop.png" width="30"/> &nbsp;`whoami`
 
 ```bash
 ╔══════════════════════════════════════════════════════════════════╗
@@ -78,7 +80,7 @@
 ---
 
 <!-- TECH STACK -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30"/> &nbsp;Tech Stack
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30"/> &nbsp;Tech Stack
 
 <div align="center">
 
@@ -107,7 +109,7 @@
 ---
 
 <!-- GITHUB STATS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bar%20Chart.png" width="30"/> &nbsp;GitHub Analytics
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bar%20Chart.png" width="30"/> &nbsp;GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gethoopp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5&ring_color=7aa2f7"/>
@@ -126,7 +128,7 @@
 ---
 
 <!-- ACTIVITY GRAPH -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"/> &nbsp;Contribution Activity
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"/> &nbsp;Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gethoopp&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&area_color=414868&hide_border=true&custom_title=Haliim's%20Contribution%20Graph" width="100%" alt="Activity Graph"/>
@@ -137,7 +139,7 @@
 ---
 
 <!-- WAKATIME -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Stopwatch.png" width="30"/> &nbsp;Coding Activity (WakaTime)
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Stopwatch.png" width="30"/> &nbsp;Coding Activity (WakaTime)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gethoopp&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&layout=compact" alt="Wakatime Stats" width="60%"/>
@@ -148,7 +150,7 @@
 ---
 
 <!-- FEATURED PROJECTS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="30"/> &nbsp;Featured Projects
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="30"/> &nbsp;Featured Projects
 
 <div align="center">
 
@@ -167,7 +169,7 @@
 ---
 
 <!-- CONNECT WITH ME -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30"/> &nbsp;Connect With Me
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30"/> &nbsp;Connect With Me
 
 <div align="center">
 
@@ -183,7 +185,7 @@
 ---
 
 <!-- CONTRIBUTION SNAKE -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30"/> &nbsp;Contribution Snake
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30"/> &nbsp;Contribution Snake
 
 <div align="center">
   <picture>
