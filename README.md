@@ -54,7 +54,7 @@
 ║    "focus"       : ["Mobile Dev", "Systems", "Backend"],         ║
 ║    "learning"    : ["Golang 🐹", "Flutter 💙", "Rust 🦀"],      ║
 ║    "open_to"     : "Flutter | Go | Rust Roles 🚀",              ║
-║    "portfolio"   : "https://gethoopp.github.io/",               ║
+║    "portfolio"   : "https://buildbybrother-web-vue-github-io.vercel.app",               ║
 ║    "contact"     : "halimpamungkas9@gmail.com",                  ║
 ║    "status"      : "Available for opportunities ✅"              ║
 ║  }                                                               ║
