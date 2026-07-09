@@ -16,7 +16,7 @@
 
 <!-- HEADER CAPSULE RENDER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=200&section=header&text=Haliim%20Pamungkas&fontSize=52&fontColor=c0caf5&fontAlignY=38&desc=Software%20Developer%20%7C%20Mobile%20%7C%20Systems%20%7C%20Cloud&descAlignY=58&descColor=9aa5ce&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=200&section=header&text=Haliim%20Pamungkas&fontSize=52&fontColor=c0caf5&fontAlignY=38&desc=Software%20Developer%20%7C%20Mobile%20%7C%20Systems%20%7C%20Clou&descAlignY=58&descColor=9aa5ce&animation=fadeIn" width="100%"/>
 </div>
 
 <!-- TYPING ANIMATION -->
