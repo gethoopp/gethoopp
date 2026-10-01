@@ -124,18 +124,6 @@
 <br/>
 
 ---
-
-<!-- ACTIVITY GRAPH -->
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"/> &nbsp;Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gethoopp&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&area_color=414868&hide_border=true&custom_title=Haliim's%20Contribution%20Graph" width="100%" alt="Activity Graph"/>
-</div>
-
-<br/>
-
----
-
 <!-- WAKATIME -->
 <div align="center">
 
