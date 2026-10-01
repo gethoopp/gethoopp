@@ -137,11 +137,7 @@
 ---
 
 <!-- WAKATIME -->
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Stopwatch.png" width="30"/> &nbsp;Coding Activity (WakaTime)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gethoopp&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&layout=compact" alt="Wakatime Stats" width="60%"/>
-</div>
+ <figure><embed src="https://wakatime.com/share/@1686880a-70a9-4086-8524-e130c7ec1743/1144584c-a0d9-4217-9a29-db0111ed1f79.svg"></embed></figure>
 
 <br/>
 
