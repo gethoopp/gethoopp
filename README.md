@@ -137,7 +137,15 @@
 ---
 
 <!-- WAKATIME -->
- <figure><embed src="https://wakatime.com/share/@1686880a-70a9-4086-8524-e130c7ec1743/1144584c-a0d9-4217-9a29-db0111ed1f79.svg"></embed></figure>
+<div align="center">
+
+  <img
+    src="https://wakatime.com/share/@1686880a-70a9-4086-8524-e130c7ec1743/250e30c7-f1ee-44ae-af1f-bbcb4b3fe2f0.svg"
+    alt="WakaTime Coding Activity"
+    width="70%"
+  />
+
+</div>
 
 <br/>
 
